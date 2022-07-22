@@ -1,6 +1,5 @@
-# Presentación
+# ANALISIS DE SOBREVIVENCIA
 
-+ CURSO: ANALISIS DE SOBREVIVENCIA
 + SIGLA: EPG3322
 + CRÉDITOS: 15
 + PROFESOR: PEDRO RAMOS (pedro.ramos@mat.uc.cl)
@@ -12,9 +11,8 @@ Que el alumno este familiarizado con los métodos estadísticos más usados para
 
 **HORARIO**
 
-M:6,7,8	CLAS	(Por Asignar)
-
-S:2	AYU
+Clases: Miércoles 6, 7, 8.
+Ayudantías: Sábado 2.
 
 **BIBLIOGRAFIA**
 
