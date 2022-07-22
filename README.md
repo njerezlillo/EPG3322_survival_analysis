@@ -11,7 +11,7 @@ Que el alumno este familiarizado con los métodos estadísticos más usados para
 
 **HORARIO**
 
-Clases: Miércoles 6, 7, 8.
+Clases: Miércoles 17:00 hrs.
 
 Ayudantías: Sábado 10:00 hrs.
 
