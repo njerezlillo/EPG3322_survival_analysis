@@ -13,6 +13,7 @@ Que el alumno este familiarizado con los métodos estadísticos más usados para
 **HORARIO**
 
 M:6,7,8	CLAS	(Por Asignar)
+
 S:2	AYU
 
 **BIBLIOGRAFIA**
