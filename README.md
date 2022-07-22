@@ -1,21 +1,21 @@
 # Presentación
 
-CURSO: ANALISIS DE SOBREVIVENCIA
-SIGLA: EPG3322
-CRÉDITOS: 15
-PROFESOR: PEDRO RAMOS (pedro.ramos@mat.uc.cl)
-AYUDANTE: NIXON JEREZ (njerezlillo@gmail.com)
++ CURSO: ANALISIS DE SOBREVIVENCIA
++ SIGLA: EPG3322
++ CRÉDITOS: 15
++ PROFESOR: PEDRO RAMOS (pedro.ramos@mat.uc.cl)
++ AYUDANTE: NIXON JEREZ (njerezlillo@gmail.com)
 
-OBJETIVOS
+**OBJETIVOS**
 
 Que el alumno este familiarizado con los métodos estadísticos más usados para analizar datos de tiempo de vida.
 
-HORARIO
+**HORARIO**
 
 M:6,7,8	CLAS	(Por Asignar)
 S:2	AYU
 
-BIBLIOGRAFIA 
+**BIBLIOGRAFIA**
 
 Collet D. (1994). Modelling Survival Data in Medical Research. Chapman and Hall, NY.
 
