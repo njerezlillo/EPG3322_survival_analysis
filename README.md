@@ -1,9 +1,8 @@
 # ANALISIS DE SOBREVIVENCIA
 
-+ SIGLA: EPG3322
-+ CRÉDITOS: 15
-+ PROFESOR: PEDRO RAMOS (pedro.ramos@mat.uc.cl)
-+ AYUDANTE: NIXON JEREZ (njerezlillo@gmail.com)
++ Sigla: EPG3322
++ Profesor: Pedro Ramos (pedro.ramos@mat.uc.cl)
++ Ayudante: Nixon Jerez (njerezlillo@gmail.com)
 
 **OBJETIVOS**
 
