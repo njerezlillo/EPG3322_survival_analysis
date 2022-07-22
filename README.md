@@ -1,4 +1,4 @@
-# ANALISIS DE SOBREVIVENCIA
+# Análisis de sobrevida
 
 + Sigla: EPG3322
 + Profesor: Pedro Ramos (pedro.ramos@mat.uc.cl)
@@ -14,7 +14,7 @@ Clases: Miércoles 17:00 hrs.
 
 Ayudantías: Sábado 10:00 hrs.
 
-**BIBLIOGRAFIA**
+**BIBLIOGRAFÍA**
 
 Collet D. (1994). Modelling Survival Data in Medical Research. Chapman and Hall, NY.
 
