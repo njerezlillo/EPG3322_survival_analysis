@@ -1,8 +1,7 @@
-# Análisis de sobrevida
+# Análisis de sobrevida (EPG3322)
 
-+ Sigla: EPG3322
 + Profesor: Pedro Ramos (pedro.ramos@mat.uc.cl)
-+ Ayudante: Nixon Jerez (njerezlillo@gmail.com)
++ Ayudante: Nixon Jerez (njerez1@mat.uc.cl)
 
 **Objetivos**
 
@@ -10,9 +9,9 @@ Que el alumno este familiarizado con los métodos estadísticos más usados para
 
 **Horario**
 
-Clases: Miércoles 17:00 hrs.
+Clases: Miércoles (17:00 hrs).
 
-Ayudantías: Sábado 10:00 hrs.
+Ayudantías: Sábado (10:00 hrs - 11:15 hrs).
 
 **Bibliografía**
 
