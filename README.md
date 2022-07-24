@@ -3,10 +3,6 @@
 + Profesor: Pedro Ramos (pedro.ramos@mat.uc.cl)
 + Ayudante: Nixon Jerez (njerez1@mat.uc.cl)
 
-**Objetivos**
-
-Que el alumno este familiarizado con los métodos estadísticos más usados para analizar datos de tiempo de vida.
-
 **Horario**
 
 Clases: Miércoles (desde las 17:00 hrs).
@@ -22,3 +18,7 @@ Cox D.R. and Oakes D. (1984). Analysis of Survival Data. Chapman and Hall, NY.
 Lee E. T. and Wang J. (2003). Statistical methods for survival data analysis. John Wiley & Sons. NJ.
 
 Kleinbaum D. G. and Klein M. (2012). Survival analysis: a self-learning text. Springer, NY.
+
+**Sitios web**
+
+https://rviews.rstudio.com/2017/09/25/survival-analysis-with-r/
