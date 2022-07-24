@@ -22,3 +22,9 @@ Kleinbaum D. G. and Klein M. (2012). Survival analysis: a self-learning text. Sp
 **Sitios web**
 
 https://rviews.rstudio.com/2017/09/25/survival-analysis-with-r/
+
+https://bioconnector.github.io/workshops/r-survival.html#survival_curves
+
+https://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html
+
+https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_survival/BS704_Survival_print.html
