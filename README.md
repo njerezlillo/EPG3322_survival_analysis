@@ -9,15 +9,19 @@ Clases: Miércoles (desde las 17:00 hrs).
 
 Ayudantías: Sábado (10:00 - 11:15 hrs).
 
-**Bibliografía**
+**Material**
 
 Collet D. (1994). Modelling Survival Data in Medical Research. Chapman and Hall, NY.
 
 Cox D.R. and Oakes D. (1984). Analysis of Survival Data. Chapman and Hall, NY.
 
-Lee E. T. and Wang J. (2003). Statistical methods for survival data analysis. John Wiley & Sons. NJ.
+Dai, H. and Wang H. (2016). Analysis for Time-to-Event Data under Censoring and Truncation. Academic Press
 
 Kleinbaum D. G. and Klein M. (2012). Survival analysis: a self-learning text. Springer, NY.
+
+Lee E. T. and Wang J. (2003). Statistical methods for survival data analysis. John Wiley & Sons. NJ.
+
+Legrand, C. Advanced Survival Models. Chapman and Hall/CRC, FL.
 
 **Sitios web**
 
