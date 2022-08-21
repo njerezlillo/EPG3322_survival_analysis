@@ -3,6 +3,7 @@
 + Profesor: Pedro Ramos (pedro.ramos@mat.uc.cl)
 + Ayudante: Nixon Jerez (njerez1@mat.uc.cl)
 + Estudiantes: Magister en Estadística
++ Pontificia Universidad Católica de Chile
 
 **Horario**
 
@@ -15,6 +16,7 @@ Ayudantías: Sábado (10:00 - 11:15 hrs).
 + Profesor: Alejandra Tapia (alejandra.tapia@mat.uc.cl)
 + Ayudante: Nixon Jerez (njerez1@mat.uc.cl)
 + Estudiantes: Estadística
++ Pontificia Universidad Católica de Chile
 
 **Horario**
 
